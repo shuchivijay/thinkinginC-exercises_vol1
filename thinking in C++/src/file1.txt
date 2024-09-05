@@ -1,0 +1,3 @@
+In the process of showing the ease of OOP when using library classes,
+this chapter also introduced some of the most basic and useful types
+in the Standard C++ library
